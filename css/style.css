@@ -3,13 +3,16 @@
 @import './utilities/cores.css';
 
 @import './global/header.css';
+@import './global/footer.css';
 
 @import './utilities/componentes.css';
 
 @import './home/introducao.css';
 @import './home/tecnologia.css';
 @import './home/parceiros.css';
+@import './home/depoimento.css';
 
 @import './bicicletas/bicicletas-lista.css';
+@import '/css/seguros/seguros.css';
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap');
