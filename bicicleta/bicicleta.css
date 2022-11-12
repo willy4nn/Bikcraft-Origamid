@@ -90,10 +90,6 @@
     border-bottom: none;
 }
 
-.bicicleta-ficha span {
-    background: var(--cor-6);
-}
-
 @media (max-width: 800px) {
     .bicicleta {
         grid-template-columns: 1fr;
