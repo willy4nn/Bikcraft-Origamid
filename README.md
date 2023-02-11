@@ -11,8 +11,9 @@
 ![print bikcraft](https://user-images.githubusercontent.com/101363317/201362757-c4700fc0-a393-41f1-aa80-9dc41046933f.PNG)
 
 <h2> 📝 Resumo do projeto </h2>
-<p><b>Page:</b> https://willy4nn.github.io/Bikcraft/ </p>
+<p><b>GitHub Pages:</b> https://willy4nn.github.io/Bikcraft-Origamid/ </p>
 <p>Site da Bikcraft, uma empresa que vende bicicletas personalizadas feitas sob medida.</p>
+<p>Projeto feito durante o curso HTML e CSS para Iniciantes da Origamid, feito com HTML e CSS.</p>
 
 <h2> 🚀 Tecnologias utilizadas </h2>
 
